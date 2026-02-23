@@ -1,2 +1,2 @@
-# Armel-Tchigui.github.io
-A
+# Portfolio Website
+This repository hosts my personal portfolio built with GitHub Pages.
